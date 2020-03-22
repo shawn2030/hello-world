@@ -1,1 +1,3 @@
-trying to understand how github works.
+trying to understand github. going through the guide.
+
+i have made the changes
